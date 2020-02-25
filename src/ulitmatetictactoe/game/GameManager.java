@@ -1,8 +1,13 @@
 package ulitmatetictactoe.game;
 
 
-import move.IMove;
+
+
+
 import ulitmatetictactoe.bot.IBot;
+import ulitmatetictactoe.move.IMove;
+
+
 
 /**
  * This is a proposed GameManager for Ultimate Tic-Tac-Toe,
