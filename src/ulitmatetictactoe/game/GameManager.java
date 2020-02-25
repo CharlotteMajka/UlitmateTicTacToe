@@ -1,7 +1,7 @@
-package game;
+package ulitmatetictactoe.game;
 
-import bot.IBot;
-import move.IMove;
+import ulitmatetictactoe.bot01.IBot;
+import ulitmatetictactoe.move0.IMove;
 
 /**
  * This is a proposed GameManager for Ultimate Tic-Tac-Toe,
