@@ -16,7 +16,7 @@ import javafx.scene.control.Label;
  *
  * @author zilot
  */
-public class FXMLTictactoeMainController implements Initializable
+public class TictactoeMainController implements Initializable
 {
     
     @FXML
