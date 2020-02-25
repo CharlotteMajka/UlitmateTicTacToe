@@ -1,6 +1,6 @@
 package ulitmatetictactoe.game;
 
-import ulitmatetictactoe.field01.IField;
+import ulitmatetictactoe.field.IField;
 
 /**
  *

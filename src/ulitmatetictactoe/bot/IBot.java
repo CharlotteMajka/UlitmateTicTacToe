@@ -1,7 +1,7 @@
 package ulitmatetictactoe.bot;
 
-import ulitmatetictactoe.game01.IGameState;
-import ulitmatetictactoe.move0.IMove;
+import ulitmatetictactoe.game.IGameState;
+import ulitmatetictactoe.move.IMove;
 
 /**
  *
