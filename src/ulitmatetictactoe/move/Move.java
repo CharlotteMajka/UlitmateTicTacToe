@@ -6,12 +6,11 @@
 package ulitmatetictactoe.move;
 
 /**
- *
- * @author Charlotte
+ * @author Tramm
  */
 public class Move implements IMove{
 
-    @Override
+      @Override
     public int getX() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
@@ -20,5 +19,6 @@ public class Move implements IMove{
     public int getY() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
+
+
 }

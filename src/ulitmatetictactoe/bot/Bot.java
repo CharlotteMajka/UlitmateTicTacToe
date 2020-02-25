@@ -18,5 +18,3 @@ public class Bot implements IBot{
     public IMove doMove(IGameState state) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
-}

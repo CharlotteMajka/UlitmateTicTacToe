@@ -5,6 +5,7 @@
  */
 package ulitmatetictactoe.field;
 
+
 import java.util.List;
 import ulitmatetictactoe.move.IMove;
 
@@ -64,4 +65,3 @@ public class Field implements IField {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
-}
