@@ -1,4 +1,4 @@
-package field;
+package ulitmatetictactoe.field;
 
 import java.util.List;
 import move.IMove;
